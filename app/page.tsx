@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useRef, useState } from "react";
-import Brain3D from "../components/Brain3D"; // relative path, no alias issues
+import Brain3D from "../components/Brain3D"; // relative path
 
 export default function Page() {
   const heroRef = useRef<HTMLElement>(null);
@@ -148,9 +148,7 @@ export default function Page() {
             </div>
           </div>
 
-          <a className="cta" href="#start">
-            Start here
-          </a>
+          <a className="cta" href="#start">Start here</a>
           <p className="foot-hint">If you’ve scrolled this far, we should talk.</p>
         </section>
       </main>
