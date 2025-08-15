@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useRef, useState } from "react";
+import { useRef, useState } from "react";
 import Brain3D from "../components/Brain3D"; // relative path
 
 export default function Page() {
