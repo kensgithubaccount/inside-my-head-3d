@@ -46,7 +46,6 @@ export default function Page() {
               aria-label="Interactive brain hotspots"
             >
               <a
-                xlinkHref="/work/amtrak"
                 href="/work/amtrak"
                 aria-label="Open Amtrak case study"
                 className="spot spot-left top"
@@ -59,7 +58,6 @@ export default function Page() {
                 <ellipse cx="410" cy="360" rx="250" ry="170" />
               </a>
               <a
-                xlinkHref="/work/parietal-lobe"
                 href="/work/parietal-lobe"
                 aria-label="Open Parietal lobe case study"
                 className="spot spot-left bottom"
@@ -72,7 +70,6 @@ export default function Page() {
                 <ellipse cx="500" cy="600" rx="280" ry="170" />
               </a>
               <a
-                xlinkHref="/work/nestle-waters"
                 href="/work/nestle-waters"
                 aria-label="Open Nestlé Waters case study"
                 className="spot spot-right top"
@@ -85,7 +82,6 @@ export default function Page() {
                 <ellipse cx="860" cy="360" rx="250" ry="170" />
               </a>
               <a
-                xlinkHref="/work/cod-mw3"
                 href="/work/cod-mw3"
                 aria-label="Open Call of Duty MW3 case study"
                 className="spot spot-right bottom"
